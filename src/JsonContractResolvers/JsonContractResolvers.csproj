@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Dianqing Bi</Authors>
+    <PackageProjectUrl>https://github.com/bidianqing/JsonContractResolvers</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bidianqing/JsonContractResolvers</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>json,json.net,</PackageTags>
+    <Description>A custom contract resolver for JSON.NET that allows for an easy way to specify exactly which properties to serialize, without resorting to adding attributes to the classes to be serialized.</Description>
   </PropertyGroup>
 
   <ItemGroup>
