@@ -1,6 +1,8 @@
 # JSON.NET custom contract resolvers
 Libraries containing custom contract resolvers for JSON.NET.
 
+This is a port based on [JsonDotNetCustomContractResolvers](https://github.com/ErikSchierboom/JsonDotNetCustomContractResolvers).
+
 [![Build status](https://ci.appveyor.com/api/projects/status/1duqfo4432r3ka1e)](https://ci.appveyor.com/project/ErikSchierboom/jsondotnetcustomcontractresolvers) [![Coverage Status](https://coveralls.io/repos/ErikSchierboom/JsonDotNetCustomContractResolvers/badge.svg?branch=&service=github)](https://coveralls.io/github/ErikSchierboom/JsonDotNetCustomContractResolvers?branch=master)
 
 ## What can it be used for?
